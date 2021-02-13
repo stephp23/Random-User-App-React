@@ -4,8 +4,10 @@ function Header() {
 	return (
 		<div className="header">
 			<h1>
-				Random Users
+				Who's the Random User?
 			</h1>
 		</div>
 	);
 }
+
+export default Header;
